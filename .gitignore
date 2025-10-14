@@ -1,9 +1,0 @@
-# Ignorowanie katalogu z plikami budowania CMake
-build/
-
-# Ignorowanie plików generowanych przez popularne edytory
-.vscode/
-.idea/
-
-# Ignorowanie plików systemowych
-.DS_Store
